@@ -35,4 +35,13 @@ This project presents a data-driven customer segmentation strategy for **Hotel H
 ## Tools & Technologies
 
 - Python (e.g., pandas, NumPy, scikit-learn, matplotlib, seaborn)
-- Jupyter Notebook  
+- Jupyter Notebook
+
+---
+
+## Developed By
+- Moeko Mitani [LinkedIn](https://www.linkedin.com/in/moeko-mitani/)  
+- Ana Caleiro
+- Duarte Marques
+- Oumaima Ben Hfaiedh
+- Sarah Leuthner
